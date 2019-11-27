@@ -1,4 +1,4 @@
-# ASAPAssistance
+# ASAP-Assistance
 Hack Western: Android app used as personal Voice Chat-Bot  
 
 Description of the app:
